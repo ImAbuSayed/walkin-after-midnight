@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Walkin’ After Midnight
+
+This log tracks the cryptographic history and versioning for the song **Walkin’ After Midnight** (walkin-after-midnight).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T04:11:43.418232 | `v1` | `7c80ef3b323e086bd04b1007c104d941f35666258502d830e3beaf592b392e53` | `00df854bdb1ce1f5507b162b7272bfdd705916ac785b45ec2ba2cb5503099db3` | `2026-05-22_walkin-after-midnight-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
