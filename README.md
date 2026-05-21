@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I've been wandering down the gravel road just to find you
+> With a pocket full of memories and the city in the rearview
+> The crickets hum a melody that echoes in the dark
+> And every single step is pulling closer to your heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
